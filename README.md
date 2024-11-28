@@ -1,5 +1,7 @@
 # CoE163 Capstone
 
+*Documentations at Doc folder
+
 *Members: 
 
 - Castor, John Danielle
