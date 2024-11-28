@@ -1,10 +1,11 @@
-# 163-capstone-exercise
-Members:
+# CoE163 Capstone
 
-Castor, John Danielle
+*Members: 
 
-Gador, John Edrick
+- Castor, John Danielle
 
-Galang, Nathan Andrei
+- Gador, John Edrick
 
-Valenzuela, Carl Elias
+- Galang, Nathan Andrei
+
+- Valenzuela, Carl Elias
