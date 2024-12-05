@@ -1,5 +1,7 @@
 # CoE163 Capstone
 
+*Code at src folder
+
 *Documentations at Doc folder
 
 *Members: 
